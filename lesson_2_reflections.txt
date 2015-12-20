@@ -19,4 +19,4 @@ the diagram the way we do?
 the result is that the changes in both branches are accepted and the result is the new starting point.
 
 What are the pros and cons of Gitâ€™s automatic merging vs. always doing merges
-manually?
+manually? with Git merges only look at uncentainty or possible collisions that way each line of code does not have to inspected manually to determine which changes are valid.
