@@ -24,6 +24,7 @@ What is the benefit of having a copy of the last known state of the remote
 stored locally?
 
     Fill in your answer here
+    Having a local copy of the remote allows for easy comapres and diffs between what changes you are putting in and what the code looks like in the remote repository.  Also allows you to work offline if you are not connected.
 
 How would you collaborate without using Git or GitHub?  What would be easier,
 and what would be harder?
