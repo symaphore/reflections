@@ -36,3 +36,4 @@ When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
 
     Fill in your answer here
+    I can think of a couple of reasons.  If you are trying something new that has not yet been decided on then a branch is a good place to do that and not merge back to the main line.  Another situation has to do with parallel development and overlapping timelines for project deliverables.
