@@ -30,6 +30,7 @@ How would you collaborate without using Git or GitHub?  What would be easier,
 and what would be harder?
 
     Fill in your answer here
+    I would use SVN and create a project Wiki so that all members of the team could post updates that everyone would check ... or there would have to be an email distribution list where everytime someone made a change they would have to send an email to the distribution.  Git with Github is much easier.
 
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
